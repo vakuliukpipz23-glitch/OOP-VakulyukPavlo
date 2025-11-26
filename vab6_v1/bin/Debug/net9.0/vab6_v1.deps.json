@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "lab6v1/1.0.0": {
+      "vab6_v1/1.0.0": {
         "runtime": {
-          "lab6v1.dll": {}
+          "vab6_v1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "lab6v1/1.0.0": {
+    "vab6_v1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

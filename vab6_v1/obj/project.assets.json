@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\OOP-Vakuluk-IPZ-3.2\\lab6v1\\lab6v1.csproj",
-      "projectName": "lab6v1",
-      "projectPath": "C:\\Users\\User\\Desktop\\OOP-Vakuluk-IPZ-3.2\\lab6v1\\lab6v1.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\OOP-Vakuluk-IPZ-3.2\\vab6_v1\\vab6_v1.csproj",
+      "projectName": "vab6_v1",
+      "projectPath": "C:\\Users\\User\\Desktop\\OOP-Vakuluk-IPZ-3.2\\vab6_v1\\vab6_v1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\OOP-Vakuluk-IPZ-3.2\\lab6v1\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\OOP-Vakuluk-IPZ-3.2\\vab6_v1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

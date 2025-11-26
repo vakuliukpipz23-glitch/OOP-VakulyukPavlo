@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP-Vakuluk-IPZ-3.2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b60ea80ec09f05c7305623dcf4979aeb7afb8e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+897050e49e70a91723aa0a33fe19093cf1f688b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP-Vakuluk-IPZ-3.2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP-Vakuluk-IPZ-3.2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
