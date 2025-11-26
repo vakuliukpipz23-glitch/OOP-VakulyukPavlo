@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\obj\Debug\net9.0\OOP-Vakuluk-IPZ-3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\obj\Debug\net9.0\OOP-Vakuluk-IPZ-3.2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\obj\Debug\net9.0\OOP-Vakuluk-IPZ-3.2.AssemblyInfo.cs
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\obj\Debug\net9.0\OOP-Vakuluk-IPZ-3.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\obj\Debug\net9.0\OOP-Vakuluk-IPZ-3.2.sourcelink.json
