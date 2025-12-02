@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\IndependentWork13\bin\Debug\net9.0\IndependentWork13.exe
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\IndependentWork13\bin\Debug\net9.0\IndependentWork13.deps.json
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\IndependentWork13\bin\Debug\net9.0\IndependentWork13.runtimeconfig.json
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\IndependentWork13\bin\Debug\net9.0\IndependentWork13.dll
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\IndependentWork13\bin\Debug\net9.0\IndependentWork13.pdb
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\IndependentWork13\obj\Debug\net9.0\IndependentWork13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\IndependentWork13\obj\Debug\net9.0\IndependentWork13.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\IndependentWork13\obj\Debug\net9.0\IndependentWork13.AssemblyInfo.cs
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\IndependentWork13\obj\Debug\net9.0\IndependentWork13.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\IndependentWork13\obj\Debug\net9.0\IndependentWork13.sourcelink.json
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\IndependentWork13\obj\Debug\net9.0\IndependentWork13.dll
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\IndependentWork13\obj\Debug\net9.0\refint\IndependentWork13.dll
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\IndependentWork13\obj\Debug\net9.0\IndependentWork13.pdb
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\IndependentWork13\obj\Debug\net9.0\IndependentWork13.genruntimeconfig.cache
+C:\Users\User\Desktop\OOP-Vakuluk-IPZ-3.2\IndependentWork13\obj\Debug\net9.0\ref\IndependentWork13.dll
