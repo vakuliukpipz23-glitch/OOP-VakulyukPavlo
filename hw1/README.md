@@ -11,13 +11,11 @@
 
 Основна проблема God Object полягає у порушенні принципу **SRP (Single Responsibility Principle)** — клас має лише одну причину для змін.
 
----
 
 ## 2. Приклад класу, який порушує SRP
 
 Нижче наведено приклад простого класу на C#, який порушує SRP. Клас відповідає одразу за бізнес-логіку, роботу з базою даних та логування.
 
-```csharp
 public class UserManager
 {
     public void CreateUser(string name)
@@ -34,7 +32,6 @@ public class UserManager
         Console.WriteLine($"INSERT INTO Users (Name) VALUES ('{name}')");
     }
 }
-```
 
 ### Чому цей клас порушує SRP?
 
@@ -46,7 +43,6 @@ public class UserManager
 
 Це означає, що клас має **декілька відповідальностей**, що є прямим порушенням SRP.
 
----
 
 ## 3. Рефакторинг класу для дотримання SRP
 
@@ -59,7 +55,6 @@ public class UserManager
 
 ### Приклад після рефакторингу
 
-```csharp
 public class UserValidator
 {
     public void Validate(string name)
@@ -100,7 +95,7 @@ public class UserService
         _repository.Save(name);
     }
 }
-```
+
 
 ### Переваги рефакторингу
 
@@ -109,10 +104,9 @@ public class UserService
 * простіше вносити зміни;
 * зменшується ризик появи God Object.
 
----
 
 ## 4. Висновок
 
 Анти-патерн **God Object** ускладнює підтримку системи та порушує принципи SOLID. Дотримання **SRP** дозволяє створювати гнучкий, зрозумілий та масштабований код.
 
-> Даний файл призначений для розміщення у `hw1/README.md` та подальшого пушу в репозиторій з лабораторними роботами.
+
