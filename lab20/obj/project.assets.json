@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Паша\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\OOP-Vakuluk-IPZ-3.2\\lab20\\lab20.csproj",
+      "projectUniqueName": "C:\\Users\\Паша\\Desktop\\OOP-Vakuluk-IPZ-3.2\\OOP-Vakuluk-IPZ-3.2\\lab20\\lab20.csproj",
       "projectName": "lab20",
-      "projectPath": "C:\\Users\\User\\Desktop\\OOP-Vakuluk-IPZ-3.2\\lab20\\lab20.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\OOP-Vakuluk-IPZ-3.2\\lab20\\obj\\",
+      "projectPath": "C:\\Users\\Паша\\Desktop\\OOP-Vakuluk-IPZ-3.2\\OOP-Vakuluk-IPZ-3.2\\lab20\\lab20.csproj",
+      "packagesPath": "C:\\Users\\Паша\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Паша\\Desktop\\OOP-Vakuluk-IPZ-3.2\\OOP-Vakuluk-IPZ-3.2\\lab20\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Паша\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

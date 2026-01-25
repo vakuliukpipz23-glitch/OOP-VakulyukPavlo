@@ -96,19 +96,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Паша\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\OOP-Vakuluk-IPZ-3.2\\IndependentWork13\\IndependentWork13.csproj",
+      "projectUniqueName": "C:\\Users\\Паша\\Desktop\\OOP-Vakuluk-IPZ-3.2\\OOP-Vakuluk-IPZ-3.2\\IndependentWork13\\IndependentWork13.csproj",
       "projectName": "IndependentWork13",
-      "projectPath": "C:\\Users\\User\\Desktop\\OOP-Vakuluk-IPZ-3.2\\IndependentWork13\\IndependentWork13.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\OOP-Vakuluk-IPZ-3.2\\IndependentWork13\\obj\\",
+      "projectPath": "C:\\Users\\Паша\\Desktop\\OOP-Vakuluk-IPZ-3.2\\OOP-Vakuluk-IPZ-3.2\\IndependentWork13\\IndependentWork13.csproj",
+      "packagesPath": "C:\\Users\\Паша\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Паша\\Desktop\\OOP-Vakuluk-IPZ-3.2\\OOP-Vakuluk-IPZ-3.2\\IndependentWork13\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Паша\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -130,9 +130,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -154,12 +154,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.23, 8.0.23]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.23, 8.0.23]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.23, 8.0.23]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.23, 8.0.23]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

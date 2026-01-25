@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Паша\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\ІПЗ 3-2 ООП Павло Вакулюк\\lab1\\lab1.csproj",
+      "projectUniqueName": "C:\\Users\\Паша\\Desktop\\OOP-Vakuluk-IPZ-3.2\\OOP-Vakuluk-IPZ-3.2\\lab1\\lab1.csproj",
       "projectName": "lab1",
-      "projectPath": "C:\\Users\\User\\Desktop\\ІПЗ 3-2 ООП Павло Вакулюк\\lab1\\lab1.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\ІПЗ 3-2 ООП Павло Вакулюк\\lab1\\obj\\",
+      "projectPath": "C:\\Users\\Паша\\Desktop\\OOP-Vakuluk-IPZ-3.2\\OOP-Vakuluk-IPZ-3.2\\lab1\\lab1.csproj",
+      "packagesPath": "C:\\Users\\Паша\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Паша\\Desktop\\OOP-Vakuluk-IPZ-3.2\\OOP-Vakuluk-IPZ-3.2\\lab1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Паша\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -42,9 +42,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -60,12 +60,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.12, 9.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[9.0.12, 9.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[9.0.12, 9.0.12]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[9.0.12, 9.0.12]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
