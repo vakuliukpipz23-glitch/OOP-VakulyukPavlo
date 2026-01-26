@@ -1,0 +1,32 @@
+@startuml
+interface IOrderValidator {
+    +Validate(order: string): bool
+}
+
+interface IOrderRepository {
+    +Save(order: string)
+}
+
+interface IEmailService {
+    +Send(order: string)
+}
+
+class OrderValidator
+class OrderRepository
+class EmailService
+
+class OrderService {
+    -validator: IOrderValidator
+    -repository: IOrderRepository
+    -emailService: IEmailService
+    +ProcessOrder(order: string)
+}
+
+OrderValidator ..|> IOrderValidator
+OrderRepository ..|> IOrderRepository
+EmailService ..|> IEmailService
+
+OrderService --> IOrderValidator
+OrderService --> IOrderRepository
+OrderService --> IEmailService
+@enduml
