@@ -1,0 +1,15 @@
+C:\Users\Паша\Desktop\OOP-Vakuluk-IPZ-3.2\OOP-Vakuluk-IPZ-3.2\lab22_v1\bin\Debug\net10.0\lab22_v1.exe
+C:\Users\Паша\Desktop\OOP-Vakuluk-IPZ-3.2\OOP-Vakuluk-IPZ-3.2\lab22_v1\bin\Debug\net10.0\lab22_v1.deps.json
+C:\Users\Паша\Desktop\OOP-Vakuluk-IPZ-3.2\OOP-Vakuluk-IPZ-3.2\lab22_v1\bin\Debug\net10.0\lab22_v1.runtimeconfig.json
+C:\Users\Паша\Desktop\OOP-Vakuluk-IPZ-3.2\OOP-Vakuluk-IPZ-3.2\lab22_v1\bin\Debug\net10.0\lab22_v1.dll
+C:\Users\Паша\Desktop\OOP-Vakuluk-IPZ-3.2\OOP-Vakuluk-IPZ-3.2\lab22_v1\bin\Debug\net10.0\lab22_v1.pdb
+C:\Users\Паша\Desktop\OOP-Vakuluk-IPZ-3.2\OOP-Vakuluk-IPZ-3.2\lab22_v1\obj\Debug\net10.0\lab22_v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Паша\Desktop\OOP-Vakuluk-IPZ-3.2\OOP-Vakuluk-IPZ-3.2\lab22_v1\obj\Debug\net10.0\lab22_v1.AssemblyInfoInputs.cache
+C:\Users\Паша\Desktop\OOP-Vakuluk-IPZ-3.2\OOP-Vakuluk-IPZ-3.2\lab22_v1\obj\Debug\net10.0\lab22_v1.AssemblyInfo.cs
+C:\Users\Паша\Desktop\OOP-Vakuluk-IPZ-3.2\OOP-Vakuluk-IPZ-3.2\lab22_v1\obj\Debug\net10.0\lab22_v1.csproj.CoreCompileInputs.cache
+C:\Users\Паша\Desktop\OOP-Vakuluk-IPZ-3.2\OOP-Vakuluk-IPZ-3.2\lab22_v1\obj\Debug\net10.0\lab22_v1.sourcelink.json
+C:\Users\Паша\Desktop\OOP-Vakuluk-IPZ-3.2\OOP-Vakuluk-IPZ-3.2\lab22_v1\obj\Debug\net10.0\lab22_v1.dll
+C:\Users\Паша\Desktop\OOP-Vakuluk-IPZ-3.2\OOP-Vakuluk-IPZ-3.2\lab22_v1\obj\Debug\net10.0\refint\lab22_v1.dll
+C:\Users\Паша\Desktop\OOP-Vakuluk-IPZ-3.2\OOP-Vakuluk-IPZ-3.2\lab22_v1\obj\Debug\net10.0\lab22_v1.pdb
+C:\Users\Паша\Desktop\OOP-Vakuluk-IPZ-3.2\OOP-Vakuluk-IPZ-3.2\lab22_v1\obj\Debug\net10.0\lab22_v1.genruntimeconfig.cache
+C:\Users\Паша\Desktop\OOP-Vakuluk-IPZ-3.2\OOP-Vakuluk-IPZ-3.2\lab22_v1\obj\Debug\net10.0\ref\lab22_v1.dll
